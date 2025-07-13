@@ -1,0 +1,215 @@
+
+    body{
+      background-color: #F8F4E1;
+    }
+
+    .navbar.navbar-expand-lg.bg-body-tertiary{
+      padding: 0px;
+    }
+
+    .btn{
+      background-color: #FEBA17;
+      color: #4E1F00;
+      border: #4E1F00 solid 2px;
+      font-weight: 500;
+      margin-bottom: 5px;
+    }
+
+    .btn:hover{
+      background-color: #FEBA17;
+      color: #F8F4E1;
+      border: #F8F4E1 solid 2px;
+    }
+
+    .btn:active{
+      background-color: #74512D;
+      color: #F8F4E1;
+    }
+
+    .btn.btn-lg.px-4
+    {
+      background-color: #4E1F00;
+      color: #F8F4E1;
+      border: #4E1F00 solid 1px;
+    }
+
+    .btn.btn-lg.px-4:hover
+    {
+      background-color: #F8F4E1;
+      color: #4E1F00;
+      border: #4E1F00 solid 1px;
+    }
+
+    .btn.btn-lg.px-4.me-sm-3{
+      background-color: #FEBA17;
+      color: #F8F4E1;
+      border: #FEBA17 solid 1px;
+    }
+
+    .btn.btn-lg.px-4.me-sm-3:hover{
+      background-color: #F8F4E1;
+      color: #FEBA17;
+      border: #FEBA17 solid 1px;
+    }
+
+    .navbar-toggler{
+      background-color: #FEBA17;
+      color: #4E1F00;
+      border: #4E1F00 solid 1px;
+    }
+
+    .navbar-toggler-icon{
+      color: #4E1F00;
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%234E1F00' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+
+    .container-fluid{
+      background-color: #FEBA17;
+      border: 0px;
+    }
+
+    .collapse.navbar-collapse .nav-link{
+      color: #4E1F00;
+      font-weight: 500;
+      font-size: 1.2rem;
+    }
+
+    .collapse.navbar-collapse .nav-link:hover{
+      color: #F8F4E1;
+    }
+
+    .navbar-brand{
+      color: #4E1F00;
+      font-size: 1.7rem;
+    }
+
+    .navbar-brand:hover{
+      color: #F8F4E1;
+    }
+
+    .navbar-brand:active{
+      color:#4E1F00;
+    }
+
+    .navbar-brand:focus{
+      color:#4E1F00;
+    }
+
+    .dropdown-menu{
+      border: #4E1F00 solid 1px;
+      background-color: #F8F4E1;
+    }
+
+    .dropdown-menu .dropdown-item{
+      color:#4E1F00;
+    }
+
+    .dropdown-menu .dropdown-item:hover{
+      background-color: #4E1F00;
+      color: #F8F4E1;
+    }
+
+    .dropdown-menu .dropdown-divider{
+      border-top: 1px solid #4E1F00;
+    }
+
+    .form-control.me-2{
+      border: #4E1F00 solid 2px;
+      background-color:#FEBA17;
+      color: #4E1F00;
+      font-weight: 500;
+      margin-bottom: 5px;
+    }
+
+    .form-control.me-2:focus{
+      box-shadow: 0 0 0 0.25rem rgba(248, 244, 225, 0.623);
+      border: #F8F4E1 solid 2px;
+      color: #F8F4E1;
+      font-weight: 500;
+    }
+
+    .form-control.me-2:hover{
+      box-shadow: 0 0 0 0.25rem rgba(248, 244, 225, 0.623);
+      border: #F8F4E1 solid 2px;
+      color: #F8F4E1;
+      font-weight: 500;
+    }
+
+    .form-control::placeholder{
+      color: #4E1F00;
+    }
+
+    .form-control:hover::placeholder{
+      color: #F8F4E1;
+    }
+
+    .form-control:focus::placeholder{
+      color: #F8F4E1;
+    }
+
+    .px-4.pt-5.my-5.text-center{
+      background-color: #F8F4E1;
+      margin: 0px !important; 
+    }
+
+    .display-4.fw-bold.display-4.fw-bold.text-body-emphasis{
+      color: #4E1F00 !important;
+    }
+
+    .lead.mb-4{
+      color: #4E1F00 !important;
+      
+    }
+
+    .feature-icon {
+      width: 4rem;
+      height: 4rem;
+      border-radius: .75rem;
+    }
+
+    #featured-3{
+      background-color: #F8F4E1;
+    }
+
+    .pb-2{
+      color: #4E1F00;
+      font-weight: 700;
+      text-align: center;
+    }
+
+    .feature-icon{
+      background-color: #FEBA17 !important;
+    }
+
+    .fs-2.text-body-emphasis{
+      color: #4E1F00 !important;
+    }
+
+    .feature.col > p{
+      color: #4E1F00;
+    }
+
+    .icon-link{
+      color: #4E1F00;
+      text-decoration-color: #4E1F00;
+    }
+
+    svg{
+      color: #4E1F00;
+    }
+    
+    .nav.justify-content-center.border-bottom.pb-0.mb-3{
+      border-bottom: #4E1F00 solid 0.1px !important;
+    }
+
+    .nav-item .nav-link.px-2.text-body-secondary{
+      color: #4E1F00 !important;
+    }
+
+    .container{
+      padding: 0px;
+    }
+
+    .text-center.text-body-secondary{
+      color: #4E1F00 !important;
+    }
